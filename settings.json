@@ -40,5 +40,5 @@
   "workbench.iconTheme": "material-icon-theme",
   "editor.indentSize": "tabSize",
   "prettier.tabWidth": 4,
-  "debug.javascript.autoAttachFilter": "onlyWithFlag",
+  "debug.javascript.autoAttachFilter": "onlyWithFlag"
 }
